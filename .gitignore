@@ -1,1 +1,7 @@
 .*
+# Exclude bytecode
+__pycache__/
+*.py[cod]
+
+# Exclude PyCharm specific directories
+.idea/
